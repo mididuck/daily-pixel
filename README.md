@@ -1,1 +1,1 @@
-# daily-pixel
+# Duc's daily pixel project thingy
