@@ -1,1 +1,1 @@
-# Duc's daily pixel project thingy
+- duc's daily pixel project thingy
